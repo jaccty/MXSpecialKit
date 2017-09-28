@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MXSpecialKit_Example' do
+  pod 'MXSpecialKit', :path => '../'
+
+  target 'MXSpecialKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
