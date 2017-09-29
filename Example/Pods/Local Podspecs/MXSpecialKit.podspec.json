@@ -1,0 +1,51 @@
+{
+  "name": "MXSpecialKit",
+  "version": "1",
+  "summary": "A short description of MXSpecialKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jaccty/MXSpecialKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "848941531@qq.com": "848941531@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/jaccty/MXSpecialKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MXSpecialKit/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ],
+    "YYWebImage": [
+
+    ],
+    "ReactiveCocoa": [
+      "~> 2.5"
+    ],
+    "MXCategoryKit": [
+
+    ],
+    "MXAPIsKit": [
+
+    ],
+    "MXReformerKeysKit": [
+
+    ],
+    "MXToolsKit": [
+
+    ],
+    "MXConfigsKit": [
+
+    ],
+    "MXMainViewKit": [
+
+    ]
+  }
+}
