@@ -7,8 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "FFCellProtocol.h"
-
+//#import "FFCellProtocol.h"
+#import "MXSpecialKit.h"
 @interface FFSpecialCell : UITableViewCell<FFCellProtocol>
 
 
